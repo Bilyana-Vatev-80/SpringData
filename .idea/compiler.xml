@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="Exercise" />
+        <module name="lab" />
+        <module name="mini-orm" />
+        <module name="Hibernate-Code-First-exr" />
+        <module name="mini-on" />
+        <module name="Introduction-to-Hibernate-exr" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="01.Gringotts-DataBase" target="14" />
+      <module name="Exercise" target="14" />
+      <module name="Hibernate-Code-First" target="14" />
+      <module name="Hibernate-Code-First -exr" target="14" />
+      <module name="Hibernate-Code-First-exer" target="14" />
+      <module name="Hibernate-Code-First-Exr" target="14" />
+      <module name="Hibernate-Code-First-exr" target="14" />
+      <module name="Hibernate-Code-First-lab" target="14" />
+      <module name="Hibernete-code-first-exr" target="14" />
+      <module name="Introduction to Hibernet-exr" target="14" />
+      <module name="Introduction to spring" target="14" />
+      <module name="Introduction-to-Hibernate-exr" target="14" />
+      <module name="lab" target="14" />
+      <module name="mini-on" target="14" />
+      <module name="mini-orm" target="1.5" />
+      <module name="ORM-Fundamentals" target="14" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

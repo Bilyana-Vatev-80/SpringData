@@ -1,5 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/ORM_Fundamentals-lab/mini-on/pom.xml" />
+        <option value="$PROJECT_DIR$/ORM-Fundamentals/mini-orm/pom.xml" />
+        <option value="$PROJECT_DIR$/Introduction-to-Hibernate-exr/pom.xml" />
+        <option value="$PROJECT_DIR$/Hibernate-Code-First/pom.xml" />
+        <option value="$PROJECT_DIR$/Habernet-Code-First-Exercises/01.Gringotts-DataBase/pom.xml" />
+        <option value="$PROJECT_DIR$/Hibernet-Code-First/Exercise/pom.xml" />
+        <option value="$PROJECT_DIR$/Hibernet-Code-First/lab/pom.xml" />
+      </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/Hibernate-Code-First/Hibernate-Code-First-Exr/pom.xml" />
+      </set>
+    </option>
+  </component>
   <component name="ProjectRootManager" version="2" languageLevel="JDK_14" default="true" project-jdk-name="14" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/out" />
   </component>
