@@ -4,14 +4,18 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/01-JDBC-exr/01-JDBC-exr.iml" filepath="$PROJECT_DIR$/01-JDBC-exr/01-JDBC-exr.iml" />
       <module fileurl="file://$PROJECT_DIR$/01-jdbc-intro-lab/01-jdbc-intro-lab.iml" filepath="$PROJECT_DIR$/01-jdbc-intro-lab/01-jdbc-intro-lab.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Spring-Data-Intro-Exercise/BookShopSystem/BookShopSystem.iml" filepath="$PROJECT_DIR$/Spring-Data-Intro-Exercise/BookShopSystem/BookShopSystem.iml" />
       <module fileurl="file://$PROJECT_DIR$/Hibernet-Code-First/Exercise/Exercise.iml" filepath="$PROJECT_DIR$/Hibernet-Code-First/Exercise/Exercise.iml" />
       <module fileurl="file://$PROJECT_DIR$/Hibernet-Code-First/Hibernet-Code-First.iml" filepath="$PROJECT_DIR$/Hibernet-Code-First/Hibernet-Code-First.iml" />
       <module fileurl="file://$PROJECT_DIR$/Introduction-to-Hibernate-exr/Introduction-to-Hibernate-exr.iml" filepath="$PROJECT_DIR$/Introduction-to-Hibernate-exr/Introduction-to-Hibernate-exr.iml" />
       <module fileurl="file://$PROJECT_DIR$/ORM-Fundamentals/ORM-Fundamentals.iml" filepath="$PROJECT_DIR$/ORM-Fundamentals/ORM-Fundamentals.iml" />
       <module fileurl="file://$PROJECT_DIR$/Spring Data.iml" filepath="$PROJECT_DIR$/Spring Data.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Spring-Data-Advanced-Quering-Lab/Spring-Data-Advanced-Quering-Lab.iml" filepath="$PROJECT_DIR$/Spring-Data-Advanced-Quering-Lab/Spring-Data-Advanced-Quering-Lab.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Spring-Data-Intro-Exercise/Spring-Data-Intro-Exercise.iml" filepath="$PROJECT_DIR$/Spring-Data-Intro-Exercise/Spring-Data-Intro-Exercise.iml" />
       <module fileurl="file://$PROJECT_DIR$/Hibernet-Code-First/lab/lab.iml" filepath="$PROJECT_DIR$/Hibernet-Code-First/lab/lab.iml" />
       <module fileurl="file://$PROJECT_DIR$/ORM_Fundamentals-lab/mini-on/mini-on.iml" filepath="$PROJECT_DIR$/ORM_Fundamentals-lab/mini-on/mini-on.iml" />
       <module fileurl="file://$PROJECT_DIR$/ORM-Fundamentals/mini-orm/mini-orm.iml" filepath="$PROJECT_DIR$/ORM-Fundamentals/mini-orm/mini-orm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Spring-DataAdvacedQuering-Exercise/springintro.iml" filepath="$PROJECT_DIR$/Spring-DataAdvacedQuering-Exercise/springintro.iml" />
     </modules>
   </component>
 </project>
