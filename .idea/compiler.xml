@@ -36,7 +36,7 @@
       <module name="mini-orm" target="1.5" />
       <module name="ORM-Fundamentals" target="14" />
       <module name="Spring-Data-Advanced-Querin-lab" target="11" />
-      <module name="Spring-Data-Advanced-Quering-Lab" target="11" />
+      <module name="Spring-Data-Advanced-Quering-Lab" target="14" />
       <module name="Spring-Data-Advanced-Quering-Lab (1)" target="14" />
       <module name="Spring-Data-AdvancedQuering-Exercise" target="11" />
       <module name="Spring-Data-Info-Exr" target="14" />
