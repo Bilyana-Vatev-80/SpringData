@@ -13,6 +13,9 @@
         <option value="$PROJECT_DIR$/Spring-Data-Intro-Exercise/BookShopSystem/pom.xml" />
         <option value="$PROJECT_DIR$/Spring-Data-Advanced-Quering-Lab/pom.xml" />
         <option value="$PROJECT_DIR$/Spring-DataAdvacedQuering-Exercise/pom.xml" />
+        <option value="$PROJECT_DIR$/Spring-Data-Auto-Mapping-Objects-Lab/pom.xml" />
+        <option value="$PROJECT_DIR$/Spring-Data-Auto-Mapping-Objects-Exercise/pom.xml" />
+        <option value="$PROJECT_DIR$/JSON-Exercise/pom.xml" />
       </list>
     </option>
     <option name="ignoredFiles">
@@ -21,7 +24,7 @@
       </set>
     </option>
   </component>
-  <component name="ProjectRootManager" version="2" languageLevel="JDK_14" default="true" project-jdk-name="14" project-jdk-type="JavaSDK">
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_15_PREVIEW" project-jdk-name="15" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/out" />
   </component>
 </project>

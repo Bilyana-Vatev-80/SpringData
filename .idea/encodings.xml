@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/JSON-Exercise/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/Spring-Data-Advanced-Quering-Lab/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Spring-Data-Auto-Mapping-Objects-Exercise/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Spring-Data-Auto-Mapping-Objects-Lab/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/Spring-Data-Intro-Exercise/BookShopSystem/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/Spring-DataAdvacedQuering-Exercise/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/Spring-DataAdvacedQuering-Exercise/src/main/resources" charset="UTF-8" />
